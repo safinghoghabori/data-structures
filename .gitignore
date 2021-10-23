@@ -1,0 +1,21 @@
+*.pdf
+*.png
+*.JPG
+*.docx
+*.txt
+
+*.o
+*.exe
+
+# Ignore entire folder
+/pointers/CN_Interview_Preparation_in_C++
+
+# Ignore from subfolder
+#**/*.png
+
+
+#**/*.mp4
+
+#*/*.docx
+#*/*.txt
+
