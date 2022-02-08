@@ -1,6 +1,6 @@
 /**
 
-    Problem: Replace pi (recursive)
+    Problem: Replace pi (recursive) [https://www.geeksforgeeks.org/recursive-program-to-replace-all-occurrences-of-pi-with-3-14-in-a-given-string/]
     Given a string, compute recursively a new string where all appearances of "pi" have been replaced by "3.14".
 
     Sample Input 1 :
@@ -56,7 +56,6 @@ void replacePI(char str[])
         str[2]='1';
         str[3]='4';
     }
-
 }
 
 int main()

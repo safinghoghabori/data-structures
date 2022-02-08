@@ -9,6 +9,7 @@
 
 # Ignore entire folder
 /pointers/CN_Interview_Preparation_in_C++
+*/.vscode
 
 # Ignore from subfolder
 #**/*.png
